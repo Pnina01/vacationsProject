@@ -1,0 +1,1458 @@
+16.4.2023, 18:27:11 	 Route / not exist
+-------------------------------
+16.4.2023, 18:27:11 	 Route /favicon.ico not exist
+-------------------------------
+6/20/2023, 12:21:40 PM 	 Route /api/vacations not exist
+-------------------------------
+6/21/2023, 12:01:32 PM 	 Route /api/vacation not exist
+-------------------------------
+6/21/2023, 12:01:35 PM 	 Route /api/vacation not exist
+-------------------------------
+6/21/2023, 12:24:15 PM 	 ER_BAD_DB_ERROR: Unknown database 'northwind'
+-------------------------------
+6/21/2023, 8:19:30 PM 	 connect ECONNREFUSED ::1:3306
+-------------------------------
+6/22/2023, 10:28:47 AM 	 Unexpected token } in JSON at position 237
+-------------------------------
+6/22/2023, 11:22:23 AM 	 Route /api/users not exist
+-------------------------------
+6/22/2023, 11:23:53 AM 	 Route /api/users not exist
+-------------------------------
+6/22/2023, 11:29:55 AM 	 Route /api/users not exist
+-------------------------------
+6/22/2023, 11:29:58 AM 	 Route /api/users not exist
+-------------------------------
+6/22/2023, 11:33:59 AM 	 Route /api/users not exist
+-------------------------------
+6/22/2023, 11:34:03 AM 	 Route /api/users not exist
+-------------------------------
+6/22/2023, 11:41:04 AM 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 2
+-------------------------------
+6/22/2023, 12:28:30 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'ProductId' in 'where clause'
+-------------------------------
+6/22/2023, 12:29:04 PM 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`vacationsplanner`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`userId`) REFERENCES `users` (`userId`))
+-------------------------------
+6/22/2023, 12:32:02 PM 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`vacationsplanner`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`userId`) REFERENCES `users` (`userId`))
+-------------------------------
+6/22/2023, 12:42:47 PM 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1
+-------------------------------
+6/25/2023, 2:41:20 AM 	 You are not admin
+-------------------------------
+6/25/2023, 2:42:17 AM 	 "price" must be a number
+-------------------------------
+6/25/2023, 2:42:27 AM 	 "vacationId" is not allowed
+-------------------------------
+6/25/2023, 2:44:15 AM 	 "vacationId" is not allowed
+-------------------------------
+6/25/2023, 2:44:17 AM 	 "vacationId" is not allowed
+-------------------------------
+6/25/2023, 2:44:54 AM 	 You are not admin
+-------------------------------
+6/25/2023, 3:08:28 AM 	 You are not admin
+-------------------------------
+6/25/2023, 3:11:23 AM 	 "vacationId" is not allowed
+-------------------------------
+6/25/2023, 12:41:41 PM 	 You are not admin
+-------------------------------
+6/25/2023, 1:12:49 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:13:01 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:13:06 PM 	 "password" length must be at least 4 characters long
+-------------------------------
+6/25/2023, 1:13:14 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:13:21 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:13:53 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:15:10 PM 	 "password" length must be at least 4 characters long
+-------------------------------
+6/25/2023, 1:15:27 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:15:34 PM 	 "password" length must be at least 2 characters long
+-------------------------------
+6/25/2023, 1:15:44 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:15:46 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:15:49 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:17:59 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:18:02 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:18:09 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:18:11 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:18:58 PM 	 "password" length must be at least 6 characters long
+-------------------------------
+6/25/2023, 1:19:06 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:20:10 PM 	 "password" is required
+-------------------------------
+6/25/2023, 1:20:17 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 1:21:20 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 5:49:26 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 11:46:49 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/25/2023, 11:46:56 PM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/26/2023, 12:20:58 AM 	 You are not admin
+-------------------------------
+6/26/2023, 11:12:42 AM 	 "username" is required
+-------------------------------
+6/26/2023, 11:13:07 AM 	 ER_NO_DEFAULT_FOR_FIELD: Field 'username' doesn't have a default value
+-------------------------------
+6/26/2023, 11:14:19 AM 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?)' at line 2
+-------------------------------
+6/26/2023, 11:14:44 AM 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?)' at line 2
+-------------------------------
+6/26/2023, 11:17:19 AM 	 ER_NO_DEFAULT_FOR_FIELD: Field 'username' doesn't have a default value
+-------------------------------
+6/26/2023, 11:18:05 AM 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+-------------------------------
+6/26/2023, 11:18:25 AM 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?)' at line 2
+-------------------------------
+6/26/2023, 11:19:53 AM 	 ER_DATA_TOO_LONG: Data too long for column 'password' at row 1
+-------------------------------
+6/26/2023, 11:23:30 AM 	 Incorrect username or password!
+-------------------------------
+6/26/2023, 11:24:51 AM 	 Incorrect username or password!
+-------------------------------
+6/26/2023, 11:25:15 AM 	 Incorrect username or password!
+-------------------------------
+6/26/2023, 11:25:23 AM 	 Incorrect username or password!
+-------------------------------
+6/26/2023, 11:25:39 AM 	 Incorrect username or password!
+-------------------------------
+6/26/2023, 11:27:02 AM 	 "password" length must be less than or equal to 100 characters long
+-------------------------------
+6/26/2023, 11:27:31 AM 	 "password" length must be at least 4 characters long
+-------------------------------
+6/26/2023, 11:27:37 AM 	 Incorrect username or password!
+-------------------------------
+6/26/2023, 11:30:25 AM 	 "password" length must be at least 6 characters long
+-------------------------------
+6/26/2023, 11:33:45 AM 	 Incorrect username or password!
+-------------------------------
+6/26/2023, 11:51:53 AM 	 Route /api/vacations/12/follow not exist
+-------------------------------
+6/26/2023, 11:52:55 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:53:07 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:53:18 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:55:28 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:56:48 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:57:29 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:57:31 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:57:47 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:57:49 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:57:57 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:57:58 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:58:07 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:58:08 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:58:30 AM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 9:26:04 PM 	 You are not admin
+-------------------------------
+6/26/2023, 9:26:39 PM 	 "role" is not allowed
+-------------------------------
+6/26/2023, 9:28:44 PM 	 Incorrect username or password!
+-------------------------------
+6/26/2023, 9:30:12 PM 	 Incorrect username or password!
+-------------------------------
+6/26/2023, 10:38:33 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 10:38:49 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 10:39:52 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 10:40:15 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 10:40:17 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 10:45:36 PM 	 "description" is required
+-------------------------------
+6/26/2023, 10:45:40 PM 	 "description" is required
+-------------------------------
+6/26/2023, 10:48:54 PM 	 "description" is required
+-------------------------------
+6/26/2023, 10:48:56 PM 	 "description" is required
+-------------------------------
+6/26/2023, 10:49:26 PM 	 "vacationStartDate" is required
+-------------------------------
+6/26/2023, 10:49:45 PM 	 "price" is required
+-------------------------------
+6/26/2023, 10:50:02 PM 	 "vacationId" is not allowed
+-------------------------------
+6/26/2023, 10:50:04 PM 	 "vacationId" is not allowed
+-------------------------------
+6/26/2023, 10:58:20 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 10:58:21 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 10:58:45 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 11:06:19 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 11:10:30 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 11:15:57 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 11:16:10 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 11:16:11 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 11:16:22 PM 	 "destination" is required
+-------------------------------
+6/26/2023, 11:17:22 PM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:18:33 PM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:18:43 PM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:18:44 PM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:19:24 PM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:19:25 PM 	 "vacationId" must be a number
+-------------------------------
+6/26/2023, 11:19:35 PM 	 Unexpected token } in JSON at position 27
+-------------------------------
+6/27/2023, 10:58:32 AM 	 Invalid token
+-------------------------------
+6/27/2023, 11:01:50 AM 	 "vacationId" must be a number
+-------------------------------
+6/27/2023, 11:01:52 AM 	 "vacationId" must be a number
+-------------------------------
+6/27/2023, 11:01:54 AM 	 "vacationId" must be a number
+-------------------------------
+6/27/2023, 11:02:02 AM 	 "destination" is required
+-------------------------------
+6/27/2023, 11:02:06 AM 	 "destination" is required
+-------------------------------
+6/27/2023, 11:02:19 AM 	 You are not admin
+-------------------------------
+6/27/2023, 11:02:28 AM 	 You are not admin
+-------------------------------
+6/27/2023, 11:04:25 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+6/27/2023, 11:10:39 AM 	 You are not admin
+-------------------------------
+6/29/2023, 12:15:05 PM 	 "username" length must be less than or equal to 20 characters long
+-------------------------------
+6/29/2023, 12:15:11 PM 	 "username" length must be less than or equal to 20 characters long
+-------------------------------
+6/29/2023, 12:15:17 PM 	 "username" length must be less than or equal to 20 characters long
+-------------------------------
+6/29/2023, 12:15:18 PM 	 "username" length must be less than or equal to 20 characters long
+-------------------------------
+6/29/2023, 12:15:32 PM 	 Incorrect username or password!
+-------------------------------
+7/2/2023, 5:16:48 PM 	 "email" is required
+-------------------------------
+7/2/2023, 5:22:44 PM 	 "email" is required
+-------------------------------
+7/2/2023, 7:33:29 PM 	 Incorrect username or password!
+-------------------------------
+7/3/2023, 11:37:43 AM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:37:57 AM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:38:01 AM 	 Route /api/vacations/13/follow not exist
+-------------------------------
+7/3/2023, 11:38:03 AM 	 Route /api/vacations/13/unfollow not exist
+-------------------------------
+7/3/2023, 11:38:14 AM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:39:27 AM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:39:35 AM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:39:38 AM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:39:42 AM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:39:43 AM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:39:49 AM 	 Route /api/vacations/3/follow not exist
+-------------------------------
+7/3/2023, 11:39:50 AM 	 Route /api/vacations/3/unfollow not exist
+-------------------------------
+7/3/2023, 11:43:00 AM 	 Route /api/vacations/7/follow not exist
+-------------------------------
+7/3/2023, 12:26:37 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 12:26:43 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 12:26:48 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 12:26:51 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 12:26:59 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 12:27:01 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 9:20:55 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 9:21:05 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 9:21:27 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 9:21:29 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 9:21:31 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 9:21:38 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 9:21:41 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 9:21:56 PM 	 Route /api/vacations/2/follow not exist
+-------------------------------
+7/3/2023, 10:20:57 PM 	 Incorrect username or password!
+-------------------------------
+7/3/2023, 10:20:59 PM 	 Incorrect username or password!
+-------------------------------
+7/3/2023, 10:52:43 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 10:52:48 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 10:52:51 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 10:53:21 PM 	 Incorrect username or password!
+-------------------------------
+7/3/2023, 10:53:22 PM 	 Incorrect username or password!
+-------------------------------
+7/3/2023, 11:09:04 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:09:13 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:09:17 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:09:22 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:10:27 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:10:33 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:10:40 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:10:46 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:12:51 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:13:04 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:13:10 PM 	 Route /api/images/ImgNotFound.png not exist
+-------------------------------
+7/3/2023, 11:34:44 PM 	 You are not admin
+-------------------------------
+7/3/2023, 11:35:48 PM 	 You are not admin
+-------------------------------
+7/3/2023, 11:35:50 PM 	 You are not admin
+-------------------------------
+7/3/2023, 11:53:30 PM 	 You are not admin
+-------------------------------
+7/3/2023, 11:53:32 PM 	 You are not admin
+-------------------------------
+7/4/2023, 12:33:04 AM 	 You are not admin
+-------------------------------
+7/4/2023, 12:38:07 AM 	 You are not admin
+-------------------------------
+7/4/2023, 12:39:13 AM 	 You are not admin
+-------------------------------
+7/4/2023, 12:39:20 AM 	 You are not admin
+-------------------------------
+7/4/2023, 12:47:19 AM 	 Route /api/images/Cancun.jpeg not exist
+-------------------------------
+7/4/2023, 12:50:26 AM 	 Route /api/images/Cancun.jpeg not exist
+-------------------------------
+7/4/2023, 12:52:13 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 12:54:41 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 12:54:47 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:12:28 AM 	 Route /api/images not exist
+-------------------------------
+7/4/2023, 1:31:47 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:31:58 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:37:49 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:39:14 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:39:30 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:39:40 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:39:43 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:39:48 AM 	 Route /api/vacations/2/follow not exist
+-------------------------------
+7/4/2023, 1:39:49 AM 	 Route /api/vacations/2/unfollow not exist
+-------------------------------
+7/4/2023, 1:39:50 AM 	 Route /api/vacations/2/follow not exist
+-------------------------------
+7/4/2023, 1:39:50 AM 	 Route /api/vacations/2/unfollow not exist
+-------------------------------
+7/4/2023, 1:44:59 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:01:06 AM 	 Route /api/images/ not exist
+-------------------------------
+7/4/2023, 2:01:20 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:01:28 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:01:41 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:04:27 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:04:44 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:05:08 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:05:13 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:10:59 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 11:06:27 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 11:31:17 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 11:32:19 AM 	 Route /api/vacations/images/undefined not exist
+-------------------------------
+7/4/2023, 11:33:05 AM 	 Route /api/images/Cancun.jpeg not exist
+-------------------------------
+7/4/2023, 11:33:35 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 12:16:09 PM 	 Incorrect username or password!
+-------------------------------
+7/4/2023, 12:17:07 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'role' in 'field list'
+-------------------------------
+7/4/2023, 12:22:33 PM 	 You are not admin
+-------------------------------
+7/4/2023, 12:28:33 PM 	 You are not admin
+-------------------------------
+7/4/2023, 12:42:13 PM 	 You are not admin
+-------------------------------
+7/4/2023, 12:52:28 PM 	 You are not admin
+-------------------------------
+7/4/2023, 12:52:45 PM 	 Route /api/acations/12 not exist
+-------------------------------
+7/4/2023, 12:52:55 PM 	 You are not admin
+-------------------------------
+7/4/2023, 12:55:13 PM 	 You are not admin
+-------------------------------
+7/4/2023, 12:56:15 PM 	 You are not admin
+-------------------------------
+7/4/2023, 12:57:27 PM 	 You are not admin
+-------------------------------
+7/4/2023, 12:58:40 PM 	 You are not admin
+-------------------------------
+7/4/2023, 1:00:36 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:00:41 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:01:19 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 1:15:08 PM 	 You are not admin
+-------------------------------
+7/4/2023, 1:17:30 PM 	 You are not admin
+-------------------------------
+7/4/2023, 1:18:19 PM 	 Invalid token
+-------------------------------
+7/4/2023, 1:19:31 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 1:21:54 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 1:21:59 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 1:22:41 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 1:24:14 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 1:25:42 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 1:26:57 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 1:33:13 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 1:35:52 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 2:11:55 PM 	 Incorrect username or password!
+-------------------------------
+7/4/2023, 2:12:03 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:12:11 PM 	 Route /api/vacations/2/follow not exist
+-------------------------------
+7/4/2023, 2:12:12 PM 	 Route /api/vacations/2/unfollow not exist
+-------------------------------
+7/4/2023, 2:12:13 PM 	 Route /api/vacations/3/follow not exist
+-------------------------------
+7/4/2023, 2:12:17 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:12:40 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 2:20:36 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 2:20:52 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 2:20:59 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 2:22:12 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 2:22:21 PM 	 "vacationId" must be a number
+-------------------------------
+7/4/2023, 2:28:34 PM 	 "description" is required
+-------------------------------
+7/4/2023, 2:28:35 PM 	 "description" is required
+-------------------------------
+7/4/2023, 8:32:52 PM 	 Invalid token
+-------------------------------
+7/4/2023, 8:33:16 PM 	 Invalid token
+-------------------------------
+7/4/2023, 8:34:03 PM 	 Incorrect username or password!
+-------------------------------
+7/4/2023, 8:34:04 PM 	 Incorrect username or password!
+-------------------------------
+7/4/2023, 8:36:04 PM 	 "password" length must be at least 6 characters long
+-------------------------------
+7/4/2023, 8:36:10 PM 	 Invalid token
+-------------------------------
+7/4/2023, 8:36:19 PM 	 Invalid token
+-------------------------------
+7/4/2023, 8:37:32 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 8:39:15 PM 	 Invalid token
+-------------------------------
+7/4/2023, 8:40:14 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 8:40:19 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 8:40:21 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 8:40:32 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 8:40:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 8:40:38 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 8:40:40 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 8:52:54 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 8:56:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 8:56:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 9:01:42 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 9:02:04 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 9:06:51 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 9:10:20 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 9:18:16 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 9:18:20 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 9:21:49 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 9:22:01 PM 	 "vacationId" is not allowed
+-------------------------------
+7/4/2023, 9:23:59 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:24:20 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:25:06 PM 	 ER_BAD_NULL_ERROR: Column 'destination' cannot be null
+-------------------------------
+7/4/2023, 9:25:32 PM 	 ER_BAD_NULL_ERROR: Column 'destination' cannot be null
+-------------------------------
+7/4/2023, 9:30:31 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:30:37 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:31:02 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:31:06 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:42:32 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:47:26 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:54:32 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:54:42 PM 	 "destination" is required
+-------------------------------
+7/4/2023, 9:58:55 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 9:58:57 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 10:03:37 PM 	 Route /api/vacations/2/follow not exist
+-------------------------------
+7/4/2023, 10:03:38 PM 	 Route /api/vacations/2/unfollow not exist
+-------------------------------
+7/4/2023, 10:03:44 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 10:03:47 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 10:03:48 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 10:03:53 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 10:03:55 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 10:11:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 10:11:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 10:11:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/4/2023, 10:11:18 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/4/2023, 10:11:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:38:49 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:38:54 AM 	 Route /api/vacations/10/follow not exist
+-------------------------------
+7/5/2023, 10:38:55 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:38:55 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 10:38:56 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:39:14 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:39:15 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:39:16 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:39:18 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:39:22 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:39:31 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:39:57 AM 	 You are not admin
+-------------------------------
+7/5/2023, 10:43:18 AM 	 "destination" is required
+-------------------------------
+7/5/2023, 10:51:28 AM 	 "destination" is required
+-------------------------------
+7/5/2023, 10:51:31 AM 	 "destination" is required
+-------------------------------
+7/5/2023, 10:51:53 AM 	 "destination" is required
+-------------------------------
+7/5/2023, 10:51:55 AM 	 "destination" is required
+-------------------------------
+7/5/2023, 10:55:07 AM 	 "destination" is required
+-------------------------------
+7/5/2023, 10:56:01 AM 	 "destination" is required
+-------------------------------
+7/5/2023, 12:14:51 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 12:15:01 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 12:15:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 12:17:36 PM 	 Incorrect username or password!
+-------------------------------
+7/5/2023, 12:18:15 PM 	 "role" is not allowed
+-------------------------------
+7/5/2023, 12:18:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 12:25:17 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 12:25:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 12:25:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:47:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:48:46 PM 	 "destination" is required
+-------------------------------
+7/5/2023, 9:48:48 PM 	 "destination" is required
+-------------------------------
+7/5/2023, 9:48:49 PM 	 "destination" is required
+-------------------------------
+7/5/2023, 9:49:01 PM 	 "destination" is required
+-------------------------------
+7/5/2023, 9:49:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:49:09 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:50:46 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:50:53 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:50:53 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 9:56:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:56:36 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 9:56:36 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:56:41 PM 	 You are not admin
+-------------------------------
+7/5/2023, 9:57:01 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:57:05 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:57:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:57:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:57:18 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 9:57:22 PM 	 You are not admin
+-------------------------------
+7/5/2023, 9:58:16 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:58:23 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 9:58:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:58:25 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:58:36 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:58:42 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 9:58:42 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:58:43 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:59:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:59:36 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:59:40 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 9:59:46 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 9:59:46 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 10:53:23 PM 	 You are not admin
+-------------------------------
+7/5/2023, 10:53:29 PM 	 You are not admin
+-------------------------------
+7/5/2023, 10:54:10 PM 	 You are not admin
+-------------------------------
+7/5/2023, 11:19:55 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:20:00 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 11:20:00 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:20:03 PM 	 You are not admin
+-------------------------------
+7/5/2023, 11:21:00 PM 	 You are not admin
+-------------------------------
+7/5/2023, 11:22:10 PM 	 "destination" is required
+-------------------------------
+7/5/2023, 11:22:12 PM 	 "destination" is required
+-------------------------------
+7/5/2023, 11:23:29 PM 	 Unexpected token } in JSON at position 323
+-------------------------------
+7/5/2023, 11:25:07 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:25:09 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 11:25:09 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:25:12 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:25:15 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 11:25:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:27:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:27:21 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:27:25 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:27:30 PM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/5/2023, 11:27:30 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/5/2023, 11:27:42 PM 	 You are not admin
+-------------------------------
+7/5/2023, 11:45:31 PM 	 ER_NO_SUCH_TABLE: Table 'vacationsplanner.vacation' doesn't exist
+-------------------------------
+7/6/2023, 10:03:48 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:04:18 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/6/2023, 10:04:18 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:04:22 AM 	 You are not admin
+-------------------------------
+7/6/2023, 10:05:02 AM 	 "destination" is required
+-------------------------------
+7/6/2023, 10:05:08 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:07:02 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:07:04 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:07:04 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/6/2023, 10:07:06 AM 	 You are not admin
+-------------------------------
+7/6/2023, 10:09:38 AM 	 You are not admin
+-------------------------------
+7/6/2023, 10:09:40 AM 	 You are not admin
+-------------------------------
+7/6/2023, 10:11:01 AM 	 ENOENT: no such file or directory, unlink './src/1-assets/images/undefined'
+-------------------------------
+7/6/2023, 10:12:09 AM 	 id 14 not exist
+-------------------------------
+7/6/2023, 10:12:39 AM 	 ENOENT: no such file or directory, unlink '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/undefined'
+-------------------------------
+7/6/2023, 10:12:48 AM 	 id 15 not exist
+-------------------------------
+7/6/2023, 10:13:11 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:13:13 AM 	 ENOENT: no such file or directory, stat '/Users/apple/Desktop/Vacations Planner Project 03/backend/src/1-assets/imageNotFound.png'
+-------------------------------
+7/6/2023, 10:13:13 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:13:18 AM 	 You are not admin
+-------------------------------
+7/6/2023, 10:13:48 AM 	 You are not admin
+-------------------------------
+7/6/2023, 10:39:48 AM 	 ER_NO_SUCH_TABLE: Table 'vacationsplanner.vacation' doesn't exist
+-------------------------------
+7/6/2023, 10:40:07 AM 	 ENOENT: no such file or directory, unlink './src/1-assets/images/undefined'
+-------------------------------
+7/6/2023, 10:42:12 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:42:18 AM 	 You are not admin
+-------------------------------
+7/6/2023, 10:44:49 AM 	 id 17 not exist
+-------------------------------
+7/6/2023, 10:45:22 AM 	 ENOENT: no such file or directory, unlink './src/1-assets/images/undefined'
+-------------------------------
+7/6/2023, 10:45:24 AM 	 id 16 not exist
+-------------------------------
+7/6/2023, 10:56:17 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:59:17 AM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 10:59:17 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:59:23 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:59:25 AM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 10:59:25 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 10:59:29 AM 	 You are not admin
+-------------------------------
+7/6/2023, 11:01:05 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:02:04 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:20:59 AM 	 You are not admin
+-------------------------------
+7/6/2023, 11:21:09 AM 	 You are not admin
+-------------------------------
+7/6/2023, 11:21:27 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:21:34 AM 	 You are not admin
+-------------------------------
+7/6/2023, 11:23:04 AM 	 "destination" is required
+-------------------------------
+7/6/2023, 11:24:09 AM 	 "destination" is required
+-------------------------------
+7/6/2023, 11:24:46 AM 	 "destination" is required
+-------------------------------
+7/6/2023, 11:34:57 AM 	 "destination" is required
+-------------------------------
+7/6/2023, 11:42:49 AM 	 "destination" is required
+-------------------------------
+7/6/2023, 11:43:36 AM 	 ER_BAD_NULL_ERROR: Column 'destination' cannot be null
+-------------------------------
+7/6/2023, 11:48:48 AM 	 ER_BAD_NULL_ERROR: Column 'destination' cannot be null
+-------------------------------
+7/6/2023, 11:49:00 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:49:05 AM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 11:49:05 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:49:09 AM 	 You are not admin
+-------------------------------
+7/6/2023, 11:49:34 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:53:15 AM 	 ER_BAD_NULL_ERROR: Column 'destination' cannot be null
+-------------------------------
+7/6/2023, 11:54:34 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:54:36 AM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 11:54:36 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:54:41 AM 	 You are not admin
+-------------------------------
+7/6/2023, 11:56:24 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:56:27 AM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 11:56:27 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 11:56:31 AM 	 You are not admin
+-------------------------------
+7/6/2023, 11:56:54 AM 	 You are not admin
+-------------------------------
+7/6/2023, 12:06:48 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:08:01 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:09:21 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:18:51 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:26:43 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:26:48 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 12:26:48 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:26:59 PM 	 You are not admin
+-------------------------------
+7/6/2023, 12:27:08 PM 	 You are not admin
+-------------------------------
+7/6/2023, 12:33:54 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:33:57 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:33:57 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 12:34:01 PM 	 You are not admin
+-------------------------------
+7/6/2023, 12:34:52 PM 	 You are not admin
+-------------------------------
+7/6/2023, 12:38:41 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:38:52 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 12:38:53 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:53:04 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:53:04 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 12:55:54 PM 	 You are not admin
+-------------------------------
+7/6/2023, 12:56:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 12:56:07 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 12:56:07 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:00:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:00:20 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 1:00:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:00:22 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 1:00:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:00:27 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 1:00:29 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 1:00:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:00:29 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 1:00:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:00:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:00:50 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 1:00:50 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:00:54 PM 	 You are not admin
+-------------------------------
+7/6/2023, 1:11:52 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:13:42 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:20:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:20:32 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 1:20:32 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 1:23:28 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 3:55:37 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 3:55:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 3:55:41 PM 	 You are not admin
+-------------------------------
+7/6/2023, 3:56:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 3:56:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 3:56:06 PM 	 Route /api/vacations/images/null not exist
+-------------------------------
+7/6/2023, 3:56:25 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 3:56:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 3:56:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:00:58 PM 	 ER_BAD_NULL_ERROR: Column 'destination' cannot be null
+-------------------------------
+7/6/2023, 4:01:16 PM 	 ER_BAD_NULL_ERROR: Column 'destination' cannot be null
+-------------------------------
+7/6/2023, 4:01:55 PM 	 "destination" is required
+-------------------------------
+7/6/2023, 4:01:57 PM 	 "destination" is required
+-------------------------------
+7/6/2023, 4:02:29 PM 	 "destination" is required
+-------------------------------
+7/6/2023, 4:02:31 PM 	 "destination" is required
+-------------------------------
+7/6/2023, 4:05:05 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:05:05 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:05:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:05:19 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:05:19 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:05:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:05:35 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:05:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:06:18 PM 	 Route /api/vacations/images/8e3d2407-ddac-4b87-ab1f-78ee7d39fc3d.jpeg not exist
+-------------------------------
+7/6/2023, 4:06:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:06:18 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:17:08 PM 	 Route /api/vacations/images/8e3d2407-ddac-4b87-ab1f-78ee7d39fc3d.jpeg not exist
+-------------------------------
+7/6/2023, 4:17:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:17:08 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:18:08 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:18:08 PM 	 Route /api/vacations/images/8e3d2407-ddac-4b87-ab1f-78ee7d39fc3d.jpeg not exist
+-------------------------------
+7/6/2023, 4:18:08 PM 	 Route /api/vacations/images/bbadd49b-2eee-4575-9292-1fee16e3ce31.jpeg not exist
+-------------------------------
+7/6/2023, 4:18:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:18:21 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:18:48 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:18:48 PM 	 Route /api/vacations/images/8e3d2407-ddac-4b87-ab1f-78ee7d39fc3d.jpeg not exist
+-------------------------------
+7/6/2023, 4:18:48 PM 	 Route /api/vacations/images/bbadd49b-2eee-4575-9292-1fee16e3ce31.jpeg not exist
+-------------------------------
+7/6/2023, 4:18:48 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:19:39 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:21:18 PM 	 Route /api/vacations/images/bbadd49b-2eee-4575-9292-1fee16e3ce31.jpeg not exist
+-------------------------------
+7/6/2023, 4:21:18 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:21:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:22:09 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:22:09 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 4:22:09 PM 	 Route /api/vacations/images/bbadd49b-2eee-4575-9292-1fee16e3ce31.jpeg not exist
+-------------------------------
+7/6/2023, 4:22:09 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:22:25 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 4:22:25 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:22:25 PM 	 Route /api/vacations/images/bbadd49b-2eee-4575-9292-1fee16e3ce31.jpeg not exist
+-------------------------------
+7/6/2023, 4:22:25 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:24:40 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:25:56 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:26:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:26:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:26:24 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:26:31 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:26:31 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:26:31 PM 	 Route /api/vacations/images/bbadd49b-2eee-4575-9292-1fee16e3ce31.jpeg not exist
+-------------------------------
+7/6/2023, 4:26:31 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 4:47:57 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:47:57 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 4:47:57 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:54:16 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 4:54:17 PM 	 Route /favicon.ico not exist
+-------------------------------
+7/6/2023, 4:56:56 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:57:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:57:22 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:57:23 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 4:58:00 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:58:00 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:58:00 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 4:58:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:58:35 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:58:35 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 4:59:36 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:59:37 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 4:59:37 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 4:59:37 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 5:02:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:02:22 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 5:02:22 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 5:04:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:37:07 PM 	 Incorrect username or password!
+-------------------------------
+7/6/2023, 5:37:42 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:37:42 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 5:37:42 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 5:38:03 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 5:38:03 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 5:38:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:38:15 PM 	 Route /api/vacations/25/follow not exist
+-------------------------------
+7/6/2023, 5:38:18 PM 	 Route /api/vacations/27/follow not exist
+-------------------------------
+7/6/2023, 5:38:19 PM 	 Route /api/vacations/21/follow not exist
+-------------------------------
+7/6/2023, 5:38:27 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 5:38:27 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 5:38:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:38:52 PM 	 Route /api/vacations/27/follow not exist
+-------------------------------
+7/6/2023, 5:39:44 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 5:39:44 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:39:44 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 5:40:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:42:17 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 5:42:17 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 5:42:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:42:18 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:42:20 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:42:20 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 5:42:20 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 5:42:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:54:42 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:54:52 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:55:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:55:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:56:01 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:56:04 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 5:56:04 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 5:56:04 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 5:56:05 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:11:11 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:11:19 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:11:19 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:11:19 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:14:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:14:22 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:14:22 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:14:22 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:16:41 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:17:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:17:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:17:45 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:17:45 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:17:50 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:19:28 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:19:28 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:19:28 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:19:49 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:25:15 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:25:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:25:15 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:27:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:27:03 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:27:03 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:27:14 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:27:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:28:26 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:28:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:28:26 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:28:41 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:29:38 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:29:38 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:29:38 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:29:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:29:49 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:29:49 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:29:49 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:30:57 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:30:57 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:30:57 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:31:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:32:02 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:32:02 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:32:02 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:32:07 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:33:08 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:33:08 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:33:08 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:33:15 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:33:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:33:23 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:33:23 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:33:26 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:33:30 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:33:30 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:33:30 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:33:33 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:34:23 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:34:23 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:34:23 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:34:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:35:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:35:35 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:35:35 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:35:41 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:35:49 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:39:27 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:39:27 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:39:27 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:39:32 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:39:45 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:39:45 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:39:45 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:40:09 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:40:09 PM 	 Route /api/vacations/images/00b693ee-3fe6-4006-b51a-1bb443082b5e.jpeg not exist
+-------------------------------
+7/6/2023, 6:40:09 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:40:29 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:40:29 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:41:47 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:41:47 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:41:58 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:41:58 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+7/6/2023, 6:44:47 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:44:54 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:45:09 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:47:53 PM 	 Route /api/vacations/images/74d479a0-571b-46f0-85cf-ee4a01238caa.jpeg not exist
+-------------------------------
+7/6/2023, 6:49:14 PM 	 "password" length must be at least 6 characters long
+-------------------------------
+7/6/2023, 6:49:35 PM 	 Route /api/vacations/29/follow not exist
+-------------------------------
+7/6/2023, 6:49:38 PM 	 Route /api/vacations/29/unfollow not exist
+-------------------------------
+7/6/2023, 7:03:27 PM 	 Route /api/vacations/28/follow not exist
+-------------------------------
+7/6/2023, 7:03:28 PM 	 Route /api/vacations/29/follow not exist
+-------------------------------
+7/7/2023, 9:37:20 AM 	 Route /api/followers/28/follow not exist
+-------------------------------
+7/7/2023, 9:38:01 AM 	 Incorrect username or password!
+-------------------------------
+7/7/2023, 9:38:32 AM 	 Route /api/followers/31/follow not exist
+-------------------------------
+7/7/2023, 9:38:33 AM 	 id 31 not exist
+-------------------------------
+7/7/2023, 9:38:35 AM 	 Route /api/followers/31/follow not exist
+-------------------------------
+7/7/2023, 9:38:40 AM 	 Route /api/followers/30/follow not exist
+-------------------------------
+7/9/2023, 6:08:55 PM 	 "email" length must be less than or equal to 20 characters long
+-------------------------------
+7/9/2023, 6:18:09 PM 	 id 38 not exist
+-------------------------------
+7/9/2023, 6:18:16 PM 	 id 38 not exist
+-------------------------------
+7/9/2023, 6:18:17 PM 	 id 38 not exist
+-------------------------------
+7/9/2023, 6:18:18 PM 	 id 38 not exist
+-------------------------------
+7/9/2023, 7:01:23 PM 	 id 40 not exist
+-------------------------------
+7/9/2023, 7:12:03 PM 	 Incorrect username or password!
+-------------------------------
